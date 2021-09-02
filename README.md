@@ -3,6 +3,8 @@ LeetCode Problems' Solutions
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      7       |     Sorting    |  [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)     | [C++](https://leetcode.com/submissions/detail/548492216/) |  Easy  |
+|      6       |     Sorting    |  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)     |      [C++](https://leetcode.com/submissions/detail/548466253/)    [C++](https://leetcode.com/submissions/detail/548469884/)   |  Easy  |
 |      5       |     Array      |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)     |      [C++](https://leetcode.com/submissions/detail/547266476/)    [JS](https://leetcode.com/submissions/detail/547271092/)   |  Medium  |
 |      4       |     Array      |  [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)     |      [C++](https://leetcode.com/submissions/detail/547245759/)    [JS](https://leetcode.com/submissions/detail/547249190/)       |  Easy  |
 |      3       |     Array      |  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)     |      [C++](https://leetcode.com/submissions/detail/547217025/)       |  Easy  |
