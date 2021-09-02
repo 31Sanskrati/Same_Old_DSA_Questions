@@ -1,5 +1,8 @@
 # LeetCode
-LeetCode Problems' Solutions
+I am trying to solve [LeetCode](https://leetcode.com/) problems and upload that here.
+
+## LeetCode Problems' Solutions
+Each problem contains topic, link of that problem, solution link of the solution that I wrote and difficulty of that question.
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
