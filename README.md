@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      13      |     DNF Sort   |  [Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |  Medium  |
+|      12      |     Array   |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)     | [C++](https://leetcode.com/submissions/detail/550994337/) |  Medium  |
+|      11      |     Linked List   |  [Reverse Linked list](https://leetcode.com/problems/reverse-linked-list/)     | [C++](https://leetcode.com/submissions/detail/550982943/) |  Easy  |
 |      10      |     Array String   |  [Slowest Key](https://leetcode.com/problems/slowest-key/)     | [C++](https://leetcode.com/submissions/detail/550485975/) |  Easy  |
 |      9       |     Array    |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)     | [C++](https://leetcode.com/submissions/detail/550474569/) |  Easy  |
 |      8       |     Array    |  [Reverse String](https://leetcode.com/problems/reverse-string/)     | [C++](https://leetcode.com/submissions/detail/550466713/) |  Easy  |
