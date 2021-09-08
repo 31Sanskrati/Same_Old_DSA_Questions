@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      16      |     Array      |  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)     |      [C++](https://leetcode.com/submissions/detail/551619261/)       |  Easy  |
+|      15      |     Array      |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)     |      [C++](https://leetcode.com/submissions/detail/551610360/)       |  Easy  |
+|      14      |     Array String   |  [Shifting Letters](https://leetcode.com/problems/shifting-letters/)     | [C++](https://leetcode.com/submissions/detail/551584714/) |  Medium  |
 |      13      |     DNF Sort   |  [Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |  Medium  |
 |      12      |     Array   |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)     | [C++](https://leetcode.com/submissions/detail/550994337/) |  Medium  |
 |      11      |     Linked List   |  [Reverse Linked list](https://leetcode.com/problems/reverse-linked-list/)     | [C++](https://leetcode.com/submissions/detail/550982943/) |  Easy  |
