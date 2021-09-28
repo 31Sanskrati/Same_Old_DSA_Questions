@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      20      |     Sieve of Eratosthenes   |  [Count Primes](https://leetcode.com/problems/count-primes/)     | [C++](https://leetcode.com/submissions/detail/562324816/) |  Medium  |
 |      19      |     Linked List   |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)     | [C++](https://leetcode.com/submissions/detail/554030127/) |  Medium  |
 |      18      |     Array      |  [Two Sum](https://leetcode.com/problems/two-sum/)     |      [C++](https://leetcode.com/submissions/detail/554018436/)       |  Easy  |
 |      17      |     Array      |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     |      [C++](https://leetcode.com/submissions/detail/552656467/)       |  Hard  |
