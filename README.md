@@ -5,6 +5,8 @@ I am trying to solve [LeetCode](https://leetcode.com/) problems and upload that 
 Each problem contains topic, link of that problem, solution link of the solution that I wrote and difficulty of that question.
 
 | # |  Topic  | Problem | Solution | Difficulty |
+|      22      |     Array      |  [Maximum Gap](https://leetcode.com/problems/maximum-gap/)     |      [C++](https://leetcode.com/submissions/detail/562990455/)       |  Hard  |
+|      21      |     Kadane's Algorithm      |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |  Easy  |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
 |      20      |     Sieve of Eratosthenes   |  [Count Primes](https://leetcode.com/problems/count-primes/)     | [C++](https://leetcode.com/submissions/detail/562324816/) |  Medium  |
 |      19      |     Linked List   |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)     | [C++](https://leetcode.com/submissions/detail/554030127/) |  Medium  |
