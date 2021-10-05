@@ -5,6 +5,7 @@ I am trying to solve [LeetCode](https://leetcode.com/) problems and upload that 
 Each problem contains topic, link of that problem, solution link of the solution that I wrote and difficulty of that question.
 
 | # |  Topic  | Problem | Solution | Difficulty |
+|      23       |     Dynamic programming    |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | [C++](https://leetcode.com/submissions/detail/566198011/) |  Easy  |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
 |      22      |     Array      |  [Maximum Gap](https://leetcode.com/problems/maximum-gap/)     |      [C++](https://leetcode.com/submissions/detail/562990455/)       |  Hard  |
 |      21      |     Kadane's Algorithm      |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |  Easy  |
