@@ -6,9 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
-
-|      25       |     Stack & Queue    |  [Implement Queue using Stacks
-](https://leetcode.com/problems/implement-queue-using-stacks/)     | [C++](https://leetcode.com/submissions/detail/566215777/) |  Easy  |
+|      25       |     Stack & Queue    |  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)     | [C++](https://leetcode.com/submissions/detail/566215777/) |  Easy  |
 |      24       |     Stack & Queue    |  [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     | [C++](https://leetcode.com/submissions/detail/566209442/) |  Easy  |
 |      23       |     Dynamic programming    |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | [C++](https://leetcode.com/submissions/detail/566198011/) |  Easy  |
 |      22      |     Array      |  [Maximum Gap](https://leetcode.com/problems/maximum-gap/)     |      [C++](https://leetcode.com/submissions/detail/562990455/)       |  Hard  |
