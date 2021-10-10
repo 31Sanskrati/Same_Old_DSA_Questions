@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      31      |     Math   |  [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)     | [C++](https://leetcode.com/submissions/detail/568892239/) |  Medium  |
+|      30       |     Math   |  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)     | [C++](https://leetcode.com/submissions/detail/568888709/) |  Easy  |
 |      29       |     Recurrsion   |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)     | [C++](https://leetcode.com/submissions/detail/567364766/) |  Easy  |
 |      28       |     Recurrsion   |  [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)     | [C++](https://leetcode.com/submissions/detail/567356106/) |  Easy  |
 |      27       |     Hashing   |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)     | [C++](https://leetcode.com/submissions/detail/567346039/) |  Easy  |
