@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      33       |     Binary Search Tree   |  [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)     | [C++](https://leetcode.com/submissions/detail/571020073/) |  Easy  |
+|      32       |     Binary Search Tree   |  [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)     | [C++](https://leetcode.com/submissions/detail/571013190/) |  Easy  |
 |      31      |     Math   |  [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)     | [C++](https://leetcode.com/submissions/detail/568892239/) |  Medium  |
 |      30       |     Math   |  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)     | [C++](https://leetcode.com/submissions/detail/568888709/) |  Easy  |
 |      29       |     Recurrsion   |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)     | [C++](https://leetcode.com/submissions/detail/567364766/) |  Easy  |
