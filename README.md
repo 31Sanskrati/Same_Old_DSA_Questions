@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      35      |     Bitwise Contest 63   |  [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/contest/biweekly-contest-63/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)     | [C++](https://leetcode.com/contest/biweekly-contest-63/submissions/detail/572138645/) |  Medium  |
+|      34       |     Bitwise Contest 63    |  [Minimum Number of Moves to Seat Everyone](https://leetcode.com/contest/biweekly-contest-63/problems/minimum-number-of-moves-to-seat-everyone/)     | [C++](https://leetcode.com/contest/biweekly-contest-63/submissions/detail/572129271/) |  Easy  |
 |      33       |     Binary Search Tree   |  [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)     | [C++](https://leetcode.com/submissions/detail/571020073/) |  Easy  |
 |      32       |     Binary Search Tree   |  [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)     | [C++](https://leetcode.com/submissions/detail/571013190/) |  Easy  |
 |      31      |     Math   |  [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)     | [C++](https://leetcode.com/submissions/detail/568892239/) |  Medium  |
