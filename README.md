@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      38      |     String   |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [C++](https://leetcode.com/submissions/detail/574375224/) |  Medium  |
+|      37      |    String      |  [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)     |      [C++](https://leetcode.com/submissions/detail/574367401/)       |  Easy  |
+|      36      |    String      |  [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)     |      [C++](https://leetcode.com/submissions/detail/574364245/)       |  Easy  |
 |      35      |     Bitwise Contest 63   |  [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/contest/biweekly-contest-63/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)     | [C++](https://leetcode.com/contest/biweekly-contest-63/submissions/detail/572138645/) |  Medium  |
 |      34       |     Bitwise Contest 63    |  [Minimum Number of Moves to Seat Everyone](https://leetcode.com/contest/biweekly-contest-63/problems/minimum-number-of-moves-to-seat-everyone/)     | [C++](https://leetcode.com/contest/biweekly-contest-63/submissions/detail/572129271/) |  Easy  |
 |      33       |     Binary Search Tree   |  [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)     | [C++](https://leetcode.com/submissions/detail/571020073/) |  Easy  |
