@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      41      |     Binary Search   |  [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)     | [C++](https://leetcode.com/submissions/detail/575475344/) |  Easy  |
 |      40      |     Linked List   |  [61. Rotate List](https://leetcode.com/problems/rotate-list/)     | [C++](https://leetcode.com/submissions/detail/574829347/) |  Medium  |
 |      39      |     Linked List   |  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)     | [C++](https://leetcode.com/submissions/detail/574824177/) |  Easy  |
 |      38      |     String   |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [C++](https://leetcode.com/submissions/detail/574375224/) |  Medium  |
