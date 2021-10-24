@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      44      |     String   |  [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)     | [C++](https://leetcode.com/submissions/detail/576433104/) |  Easy  |
+|      43      |     String & Stack   |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)     | [C++](https://leetcode.com/submissions/detail/575900781/) |  Easy  |
+|      42      |     Math   |  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)     | [C++](https://leetcode.com/submissions/detail/575874299/) |  Easy  |
 |      41      |     Binary Search   |  [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)     | [C++](https://leetcode.com/submissions/detail/575475344/) |  Easy  |
 |      40      |     Linked List   |  [61. Rotate List](https://leetcode.com/problems/rotate-list/)     | [C++](https://leetcode.com/submissions/detail/574829347/) |  Medium  |
 |      39      |     Linked List   |  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)     | [C++](https://leetcode.com/submissions/detail/574824177/) |  Easy  |
