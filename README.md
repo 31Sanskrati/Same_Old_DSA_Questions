@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      46      |     Binary Search   |  [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)     | [C++](https://leetcode.com/submissions/detail/582532054/) |  Easy  |
 |      45      |     Tree   |  [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)     | [C++](https://leetcode.com/submissions/detail/581852172/) |  Easy  |
 |      44      |     String   |  [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)     | [C++](https://leetcode.com/submissions/detail/576433104/) |  Easy  |
 |      43      |     String & Stack   |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)     | [C++](https://leetcode.com/submissions/detail/575900781/) |  Easy  |
