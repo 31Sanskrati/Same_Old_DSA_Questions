@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      49      |     Matrix   |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     | [C++](https://leetcode.com/submissions/detail/631947077/) |  Medium  |
 |      48      |     Array   |  [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)     | [C++](https://leetcode.com/submissions/detail/584875591/) |  Medium  |
 |      47      |     Array   |  [260. Single Number III](https://leetcode.com/problems/single-number-iii/)     | [C++](https://leetcode.com/submissions/detail/582869046/) |  Medium  |
 |      46      |     Binary Search   |  [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)     | [C++](https://leetcode.com/submissions/detail/582532054/) |  Easy  |
