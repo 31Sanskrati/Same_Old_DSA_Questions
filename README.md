@@ -31,7 +31,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 |      30       |     Math   |  [Palindrome Number](https://leetcode.com/problems/palindrome-number/)     | [C++](https://leetcode.com/submissions/detail/568888709/) |  Easy  |
 |      29       |     Recurrsion   |  [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)     | [C++](https://leetcode.com/submissions/detail/567364766/) |  Easy  |
 |      28       |     Recurrsion   |  [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)     | [C++](https://leetcode.com/submissions/detail/567356106/) |  Easy  |
-|      27       |     Hashing   |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)     | [C++](https://leetcode.com/submissions/detail/567346039/) |  Easy  |
+|      27       |     Hashing Array   |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)     | [C++](https://leetcode.com/submissions/detail/567346039/) [Alternate](https://leetcode.com/submissions/detail/730408110/)|  Easy  |
 |      26      |     Linked List   |  [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)     | [C++](https://leetcode.com/submissions/detail/566237925/) |  Medium  |
 |      25       |     Stack & Queue    |  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)     | [C++](https://leetcode.com/submissions/detail/566215777/) |  Easy  |
 |      24       |     Stack & Queue    |  [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     | [C++](https://leetcode.com/submissions/detail/566209442/) |  Easy  |
