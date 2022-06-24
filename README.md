@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      52      |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [C++](https://leetcode.com/submissions/detail/730389880/)       |  Easy  |
 |      51      |     Array      |  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |      [C++](https://leetcode.com/submissions/detail/729599063/)       |  Easy  |
 |      50      |     Math   |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/))    | [C++](https://leetcode.com/submissions/detail/729560128/) |  Easy  |
 |      49      |     Matrix   |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     | [C++](https://leetcode.com/submissions/detail/631947077/) |  Medium  |
