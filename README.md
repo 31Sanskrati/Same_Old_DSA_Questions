@@ -6,8 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
-|      56      |     Searching      |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)     |      [Using binary search](https://leetcode.com/submissions/detail/730805873/)       |  Medium  |
-|      55      |     Searching      |  [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)     |      [Using binary search](https://leetcode.com/submissions/detail/730805873/)       |  Easy  |
+|      57      |     Binary Search      |  [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)     |      [C++](https://leetcode.com/submissions/detail/731172701/)       |  Easy  |
+|      56      |     Binary Search      |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)     |      [C++](https://leetcode.com/submissions/detail/730805873/)       |  Medium  |
+|      55      |     Binary Search      |  [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)     |      [C++](https://leetcode.com/submissions/detail/730805873/)       |  Easy  |
 |      54      |     Array      |  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)     |      [Using Array](https://leetcode.com/submissions/detail/730773794/)  , [Using map](https://leetcode.com/submissions/detail/730775393/)   |  Easy  |
 |      53      |     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [Using Array](https://leetcode.com/submissions/detail/730741345/)       |  Easy  |
 |      52      |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [Using Array](https://leetcode.com/submissions/detail/730389880/)       |  Easy  |
