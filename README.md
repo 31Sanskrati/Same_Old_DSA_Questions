@@ -6,11 +6,11 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
-|      54      |     Array      |  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)     |      [Using Array](https://leetcode.com/submissions/detail/730773794/)   [Alternate using map](https://leetcode.com/submissions/detail/730775393/)   |  Easy  |
-|      53      |     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [C++](https://leetcode.com/submissions/detail/730741345/)       |  Easy  |
-|      52      |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [C++](https://leetcode.com/submissions/detail/730389880/)       |  Easy  |
-|      51      |     Array      |  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |      [C++](https://leetcode.com/submissions/detail/729599063/)       |  Easy  |
-|      50      |     Math   |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/))    | [C++](https://leetcode.com/submissions/detail/729560128/) |  Easy  |
+|      54      |     Array      |  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)     |      [Using Array](https://leetcode.com/submissions/detail/730773794/)  , [Using map](https://leetcode.com/submissions/detail/730775393/)   |  Easy  |
+|      53      |     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [Using Array](https://leetcode.com/submissions/detail/730741345/)       |  Easy  |
+|      52      |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [Using Array](https://leetcode.com/submissions/detail/730389880/)       |  Easy  |
+|      51      |     Array      |  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |      [Using Array](https://leetcode.com/submissions/detail/729599063/)       |  Easy  |
+|      50      |     Math   |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/))    | [Using Array](https://leetcode.com/submissions/detail/729560128/) |  Easy  |
 |      49      |     Matrix   |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     | [C++](https://leetcode.com/submissions/detail/631947077/) |  Medium  |
 |      48      |     Array   |  [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)     | [C++](https://leetcode.com/submissions/detail/584875591/) |  Medium  |
 |      47      |     Array   |  [260. Single Number III](https://leetcode.com/problems/single-number-iii/)     | [C++](https://leetcode.com/submissions/detail/582869046/) |  Medium  |
