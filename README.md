@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      54      |     Array      |  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)     |      [Using Array](https://leetcode.com/submissions/detail/730773794/)   [Alternate using map](https://leetcode.com/submissions/detail/730775393/)   |  Easy  |
+|      53      |     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [C++](https://leetcode.com/submissions/detail/730741345/)       |  Easy  |
 |      52      |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [C++](https://leetcode.com/submissions/detail/730389880/)       |  Easy  |
 |      51      |     Array      |  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |      [C++](https://leetcode.com/submissions/detail/729599063/)       |  Easy  |
 |      50      |     Math   |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/))    | [C++](https://leetcode.com/submissions/detail/729560128/) |  Easy  |
