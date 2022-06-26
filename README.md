@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      59      |     Binary Search      |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)     |      [C++](https://leetcode.com/submissions/detail/731699630/)       |  Medium  |
 |      58      |     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |  Medium  |
 |      57      |     Binary Search      |  [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)     |      [C++](https://leetcode.com/submissions/detail/731172701/)       |  Easy  |
 |      56      |     Binary Search      |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)     |      [C++](https://leetcode.com/submissions/detail/730805873/)       |  Medium  |
