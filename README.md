@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      61      |     Array      |  [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)     |      [C++](https://leetcode.com/submissions/detail/734192478/)       |  Easy  |
 |      60      |     Array      |  [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)     |      [C++](https://leetcode.com/submissions/detail/734184018/)       |  Easy  |
 |      59      |     Binary Search      |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)     |      [C++](https://leetcode.com/submissions/detail/731699630/)       |  Medium  |
 |      58      |     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |  Medium  |
