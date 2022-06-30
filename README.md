@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      64      |     Array      |  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)     |      [C++](https://leetcode.com/submissions/detail/735230844/)       |  Medium  |
 |      63      |     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |  Medium  |
 |      62      |     Array      |  [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)     |      [C++](https://leetcode.com/submissions/detail/734210637/)       |  Easy  |
 |      61      |     Array      |  [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)     |      [C++](https://leetcode.com/submissions/detail/734192478/)       |  Easy  |
