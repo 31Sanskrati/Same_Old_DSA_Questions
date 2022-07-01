@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      65      |     Matrix, Binary Search      |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     |      [C++](https://leetcode.com/submissions/detail/735792347/)       |  Medium  |
 |      64      |     Array      |  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)     |      [C++](https://leetcode.com/submissions/detail/735230844/)       |  Medium  |
 |      63      |     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |  Medium  |
 |      62      |     Array      |  [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)     |      [C++](https://leetcode.com/submissions/detail/734210637/)       |  Easy  |
