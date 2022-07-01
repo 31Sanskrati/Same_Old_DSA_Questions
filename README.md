@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      68      |     Matrix      |  [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)     |      [C++](https://leetcode.com/submissions/detail/735829233/)       |  Easy  |
+|      67      |     Array      |  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)     |      [C++](https://leetcode.com/submissions/detail/735819752/)       |  Easy  |
+|      66      |     Matrix      |  [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)     |      [C++](https://leetcode.com/submissions/detail/735815017/)       |  Easy  |
 |      65      |     Matrix, Binary Search      |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     |      [C++](https://leetcode.com/submissions/detail/735792347/)       |  Medium  |
 |      64      |     Array      |  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)     |      [C++](https://leetcode.com/submissions/detail/735230844/)       |  Medium  |
 |      63      |     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |  Medium  |
