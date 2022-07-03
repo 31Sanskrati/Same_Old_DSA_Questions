@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      72      |     Matrix     |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)     |      [C++](https://leetcode.com/submissions/detail/737227109/)       |  Medium  |
 |      71      |     Array      |  [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)     |      [C++](https://leetcode.com/submissions/detail/736615422/), [Alternate](https://leetcode.com/submissions/detail/737097253/)       |  Easy  |
 |      70      |     Array      |  [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)     |      [C++](https://leetcode.com/submissions/detail/736608372/)       |  Easy  |
 |      69      |     Array      |  [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)     |      [C++](https://leetcode.com/submissions/detail/736581160/)       |  Easy  |
