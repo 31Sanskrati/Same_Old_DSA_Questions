@@ -6,6 +6,9 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      71      |     Array      |  [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)     |      [C++](https://leetcode.com/submissions/detail/736615422/), [Alternate](https://leetcode.com/submissions/detail/737097253/)       |  Easy  |
+|      70      |     Array      |  [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)     |      [C++](https://leetcode.com/submissions/detail/736608372/)       |  Easy  |
+|      69      |     Array      |  [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)     |      [C++](https://leetcode.com/submissions/detail/736581160/)       |  Easy  |
 |      68      |     Matrix      |  [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)     |      [C++](https://leetcode.com/submissions/detail/735829233/)       |  Easy  |
 |      67      |     Array      |  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)     |      [C++](https://leetcode.com/submissions/detail/735819752/)       |  Easy  |
 |      66      |     Matrix      |  [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)     |      [C++](https://leetcode.com/submissions/detail/735815017/)       |  Easy  |
