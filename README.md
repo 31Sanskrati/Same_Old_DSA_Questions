@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      73      |     Array      |  [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)     |      [C++](https://leetcode.com/submissions/detail/738419954/)       |  Easy  |
 |      72      |     Matrix     |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)     |      [C++](https://leetcode.com/submissions/detail/737227109/)       |  Medium  |
 |      71      |     Array      |  [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)     |      [C++](https://leetcode.com/submissions/detail/736615422/), [Alternate](https://leetcode.com/submissions/detail/737097253/)       |  Easy  |
 |      70      |     Array      |  [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)     |      [C++](https://leetcode.com/submissions/detail/736608372/)       |  Easy  |
