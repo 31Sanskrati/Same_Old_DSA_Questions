@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      79      |     Array      |  [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)     |      [C++](https://leetcode.com/submissions/detail/738583392/)       |  Easy  |
+|      78      |     Array      |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/738587921/)       |  Easy  |
 |      77      |     Array      |  [66. Plus One](https://leetcode.com/problems/plus-one/)     |      [C++](https://leetcode.com/submissions/detail/738552509/)       |  Easy  |
 |      76      |     Matrix      |  [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)     |      [C++](https://leetcode.com/submissions/detail/738513461/)       |  Easy  |
 |      75      |     Array     |  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |  Medium  |
