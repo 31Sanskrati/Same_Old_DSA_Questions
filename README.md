@@ -6,6 +6,10 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      83      |     Searching      |  [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     |      [C++](https://leetcode.com/submissions/detail/739039506/)       |  Medium  |
+|      82      |     Searching      |  [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)     |      [C++](https://leetcode.com/submissions/detail/739024445/)       |  Easy  |
+|      81      |     Searching      |  [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)     |      [C++](https://leetcode.com/submissions/detail/739012814/)       |  Easy  |
+|      80      |     Searching      |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)     |      [C++](https://leetcode.com/submissions/detail/739006777/)       |  Easy  |
 |      79      |     Array      |  [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)     |      [C++](https://leetcode.com/submissions/detail/738583392/)       |  Easy  |
 |      78      |     Array      |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/738587921/)       |  Easy  |
 |      77      |     Array      |  [66. Plus One](https://leetcode.com/problems/plus-one/)     |      [C++](https://leetcode.com/submissions/detail/738552509/)       |  Easy  |
