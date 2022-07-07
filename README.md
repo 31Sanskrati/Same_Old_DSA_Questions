@@ -6,6 +6,12 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      97      |     Searching      |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)     |      [C++](https://leetcode.com/submissions/detail/739429028/)       |  Easy  |
+|      96      |     Searching      |  [704. Binary Search](https://leetcode.com/problems/binary-search/)     |      [C++](https://leetcode.com/submissions/detail/740057107/)       |  Easy  |
+|      95      |     Searching      |  [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)     |      [C++](https://leetcode.com/submissions/detail/740048204/)       |  Easy  |
+|      94      |     Searching      |  [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)     |      [C++](https://leetcode.com/submissions/detail/739896764/)       |  Easy  |
+|      93      |     Searching      |  [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)     |      [C++](https://leetcode.com/submissions/detail/551619261/)       |  Easy  |
+|      92      |     Searching      |  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)     |      [C++](https://leetcode.com/submissions/detail/739474371/)       |  Easy  |
 |      91      |     Sorting      |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)     |      [Using Cycle Sort](https://leetcode.com/problems/first-missing-positive/discuss/2248299/C%2B%2B-oror-Cycle-Sort-oror-code-with-comments)       |  Hard  |
 |      90      |     Sorting      |  [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)     |      [Using Cycle Sort](https://leetcode.com/problems/set-mismatch/discuss/2248064/C%2B%2B-O(n)-Time-Complexity-code-with-comments)       |  Easy  |
 |      89      |     Sorting      |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)     |      [Using Cycle Sort](https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/2248046/C%2B%2B-oror-Cycle-Sort-oror-Code-with-comments-oror-O(n)-time-complexity)       |  Medium  |
