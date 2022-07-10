@@ -6,6 +6,12 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      110      |     String      |  [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)     |      C++      |  Easy  |
+|      109      |     String      |  [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)     |      C++      |  Easy  |
+|      108      |     String      |  [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     |      C++      |  Easy  |
+|      107      |     String      |  [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)     |      [C++](https://leetcode.com/problems/sorting-the-sentence/discuss/2264791/Using-map-oror-Faster-than-100-oror-O(n)-time-complexity)      |  Easy  |
+|      106      |     String      |  [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)     |      C++      |  Easy  |
+|      105      |     String      |  [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)     |      C++      |  Easy  |
 |      104      |     Sorting      |  [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)     |      [C++](https://leetcode.com/submissions/detail/742072410/)       |  Easy  |
 |      103      |     Sorting      |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)     |      [C++](https://leetcode.com/problems/sort-array-by-parity/discuss/2256339/easy-solution-using-two-pointers-o1-space-and-on-time-complexity)       |  Easy  |
 |      102      |     Sorting      |  [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)     |      [C++](https://leetcode.com/submissions/detail/742022264/), [Another solution](https://leetcode.com/submissions/detail/742024980/)       |  Easy  |
@@ -50,7 +56,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 |      63      |     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |  Medium  |
 |      62      |     Array      |  [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)     |      [C++](https://leetcode.com/submissions/detail/734210637/)       |  Easy  |
 |      61      |     Array      |  [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)     |      [C++](https://leetcode.com/submissions/detail/734192478/)       |  Easy  |
-|      60      |     Array      |  [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)     |      [C++](https://leetcode.com/submissions/detail/734184018/)       |  Easy  |
+|      60      |     Array, String      |  [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)     |      [C++](https://leetcode.com/submissions/detail/734184018/)       |  Easy  |
 |      59      |     Binary Search      |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)     |      [C++](https://leetcode.com/submissions/detail/731699630/)       |  Medium  |
 |      58      |     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |  Medium  |
 |      57      |     Binary Search      |  [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)     |      [C++](https://leetcode.com/submissions/detail/731172701/)       |  Easy  |
