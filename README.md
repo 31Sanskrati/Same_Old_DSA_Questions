@@ -6,6 +6,13 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      118      |     String      |  [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)     |      C++      |  Easy  |
+|      117      |     String      |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)     |      C++      |  Easy  |
+|      117      |     String      |  [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)     |      C++      |  Easy  |
+|      116      |     String      |  [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)     |      C++      |  Easy  |
+|      115      |     String      |  [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)     |      C++      |  Easy  |
+|      114      |     String      |  [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)     |      C++      |  Easy  |
+|      113      |     String      |  [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)     |      C++      |  Easy  |
 |      112      |     Searching      |  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/746273122/)       |  Medium  |
 |      111      |     Array     |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      [C++](https://leetcode.com/problems/product-of-array-except-self/discuss/2272522/Every-solution-I-can-think-of)       |  Medium  |
 |      110      |     String      |  [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)     |      C++      |  Easy  |
