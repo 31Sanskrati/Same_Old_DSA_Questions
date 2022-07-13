@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      112      |     Searching      |  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/746273122/)       |  Medium  |
 |      111      |     Array     |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      [C++](https://leetcode.com/problems/product-of-array-except-self/discuss/2272522/Every-solution-I-can-think-of)       |  Medium  |
 |      110      |     String      |  [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)     |      C++      |  Easy  |
 |      109      |     String      |  [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)     |      C++      |  Easy  |
