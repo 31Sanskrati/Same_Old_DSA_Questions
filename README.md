@@ -6,6 +6,8 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      120      |     Bitwise Manipulation      |  [136. Single Number](https://leetcode.com/problems/single-number/)     |      C++      |  Easy  |
+|      119      |     Bitwise Manipulation      |  [67. Add Binary](https://leetcode.com/problems/add-binary/)     |      C++      |  Easy  |
 |      118      |     String      |  [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)     |      C++      |  Easy  |
 |      117      |     String      |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)     |      C++      |  Easy  |
 |      117      |     String      |  [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)     |      C++      |  Easy  |
