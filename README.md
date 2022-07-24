@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      121      |     Bitwise Manipulation      |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)     |      C++      |  Easy  |
 |      120      |     Bitwise Manipulation      |  [136. Single Number](https://leetcode.com/problems/single-number/)     |      C++      |  Easy  |
 |      119      |     Bitwise Manipulation      |  [67. Add Binary](https://leetcode.com/problems/add-binary/)     |      C++      |  Easy  |
 |      118      |     String      |  [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)     |      C++      |  Easy  |
@@ -118,7 +119,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 |      12      |     Array   |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)     | [C++](https://leetcode.com/submissions/detail/550994337/) |  Medium  |
 |      11      |     Linked List   |  [Reverse Linked list](https://leetcode.com/problems/reverse-linked-list/)     | [C++](https://leetcode.com/submissions/detail/550982943/) |  Easy  |
 |      10      |     Array String   |  [Slowest Key](https://leetcode.com/problems/slowest-key/)     | [C++](https://leetcode.com/submissions/detail/550485975/) |  Easy  |
-|      9       |     Array    |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)     | [C++](https://leetcode.com/submissions/detail/550474569/) |  Easy  |
+|      9       |     Bitwise Manipulation    |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)     | [C++](https://leetcode.com/submissions/detail/550474569/) |  Easy  |
 |      8       |     Array    |  [Reverse String](https://leetcode.com/problems/reverse-string/)     | [C++](https://leetcode.com/submissions/detail/550466713/) |  Easy  |
 |      7       |     Sorting    |  [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)     | [C++](https://leetcode.com/submissions/detail/548492216/) |  Easy  |
 |      6       |     Sorting Array   |  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)    |      [C++](https://leetcode.com/submissions/detail/548466253/)    [Alternate](https://leetcode.com/submissions/detail/548469884/)  [Alternate code](https://leetcode.com/submissions/detail/730416751/) |  Easy  |
