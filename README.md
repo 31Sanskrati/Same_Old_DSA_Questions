@@ -6,6 +6,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      123      |     Array      |  [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)     |      [C++](https://leetcode.com/problems/spiral-matrix-iii/discuss/2777454/C%2B%2B-solution-with-explanation-and-complexity)       |  Easy  |
 |      122      |     String      |  [2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)     |      [C++](https://leetcode.com/submissions/detail/823619426/)      |  Easy  |
 |      121      |     Bitwise Manipulation      |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)     |      C++      |  Easy  |
 |      120      |     Bitwise Manipulation      |  [136. Single Number](https://leetcode.com/problems/single-number/)     |      C++      |  Easy  |
