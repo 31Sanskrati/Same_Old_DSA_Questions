@@ -61,6 +61,7 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 |     DNF Sort   |  [Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |
 |     Array   |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)     | [C++](https://leetcode.com/submissions/detail/550994337/) |
 |     Array      |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)     |      [C++](https://leetcode.com/submissions/detail/547266476/)    [JS](https://leetcode.com/submissions/detail/547271092/)   |
+|     Array      |  [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)     |      [C++](https://leetcode.com/problems/spiral-matrix-iii/discuss/2777454/C%2B%2B-solution-with-explanation-and-complexity)   |
 
 
 ## Difficulty level: Hard
