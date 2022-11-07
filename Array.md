@@ -2,44 +2,37 @@
 This markdown file is specific to [LeetCode](https://leetcode.com/) problems related to array. Problems are divided according to difficulty level. 
 
 ## Difficulty level: Easy
-|  Topic related to question  | Problem | My Solution |
+| Serial No. | Problem | My Solution |
 | :---         |     :---:      |          ---: |
-|     String      |  [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     |      C++      |
-|     Sorting      |  [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)     |      [C++](https://leetcode.com/submissions/detail/742072410/)       |
-|     Sorting      |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)     |      [C++](https://leetcode.com/problems/sort-array-by-parity/discuss/2256339/easy-solution-using-two-pointers-o1-space-and-on-time-complexity)       |
-|     Searching      |  [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)     |      [C++](https://leetcode.com/submissions/detail/551619261/), [Using map](https://leetcode.com/submissions/detail/741983319/)       |
-|     Searching      |  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)     |      [C++](https://leetcode.com/submissions/detail/739474371/), [Using find](https://leetcode.com/submissions/detail/739464593/)       |
-|     Sorting      |  [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)     |      [Using Cycle Sort](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/2248007/Easy-solution-using-cycle-sort-O(n))       |
 |     Array      |  [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)     |      [C++](https://leetcode.com/submissions/detail/738583392/)       |
 |     Array      |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/738587921/)       |
 |     Array      |  [66. Plus One](https://leetcode.com/problems/plus-one/)     |      [C++](https://leetcode.com/submissions/detail/738552509/)       |
+|     Array      |  [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)     |      [C++](https://leetcode.com/submissions/detail/738513461/)       |
+|     Kadane's Algorithm      |  [**53. Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |
+|     Kadane's Algorithm      |  [**1380. Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)     |      [C++](https://leetcode.com/submissions/detail/822286223/)       |
 |     Array      |  [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)     |      [C++](https://leetcode.com/submissions/detail/738419954/)       |
+|     Array      |  [Two Sum](https://leetcode.com/problems/two-sum/)     |      [C++](https://leetcode.com/submissions/detail/554018436/)       |
 |     Array      |  [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)     |      [C++](https://leetcode.com/submissions/detail/736615422/), [Alternate](https://leetcode.com/submissions/detail/737097253/)       |
 |     Array      |  [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)     |      [C++](https://leetcode.com/submissions/detail/736608372/)       
 |     Array      |  [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)     |      [C++](https://leetcode.com/submissions/detail/736581160/)       |
+|     Array      |  [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)     |      [C++](https://leetcode.com/submissions/detail/735829233/)       |
 |     Array      |  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)     |      [C++](https://leetcode.com/submissions/detail/735819752/)       |
+|     Array      |  [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)     |      [C++](https://leetcode.com/submissions/detail/735815017/)       |
+|     Array      |  [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)     |      [C++](https://leetcode.com/submissions/detail/817977924/)       |
 |     Array      |  [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)     |      [C++](https://leetcode.com/submissions/detail/734210637/)       |
 |     Array      |  [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)     |      [C++](https://leetcode.com/submissions/detail/734192478/)       |
 |     Array, String      |  [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)     |      [C++](https://leetcode.com/submissions/detail/734184018/)       |
-|     Binary Search      |  [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)     |      [C++](https://leetcode.com/submissions/detail/730805873/)       |
 |     Array      |  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)     |      [Using Array](https://leetcode.com/submissions/detail/730773794/)  , [Using map](https://leetcode.com/submissions/detail/730775393/)   |
-|     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [Using Array](https://leetcode.com/submissions/detail/730741345/)       |
+|     Array      |  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)     |      [C++](https://leetcode.com/submissions/detail/730741345/)       |
+|     Sorting Array   |  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)    |      [Using Array](https://leetcode.com/submissions/detail/548466253/) , [Usimg Map](https://leetcode.com/submissions/detail/730416751/) |
+|     Hashing Array   |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)     | [C++](https://leetcode.com/submissions/detail/567346039/) [Alternate](https://leetcode.com/submissions/detail/730408110/)|
 |     Array      |  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     |      [Using Array](https://leetcode.com/submissions/detail/730389880/)       |
 |     Array      |  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |      [Using Array](https://leetcode.com/submissions/detail/729599063/)       |
-|     Math   |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/))    | [Using Array](https://leetcode.com/submissions/detail/729560128/) |
-|     Hashing Array   |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)     | [C++](https://leetcode.com/submissions/detail/567346039/) [Alternate](https://leetcode.com/submissions/detail/730408110/)|
-|     Kadane's Algorithm      |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |
-|     Array      |  [Two Sum](https://leetcode.com/problems/two-sum/)     |      [C++](https://leetcode.com/submissions/detail/554018436/)       |
-|     Array      |  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)     |      [C++](https://leetcode.com/submissions/detail/551619261/)       |
-|     Array      |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)     |      [C++](https://leetcode.com/submissions/detail/551610360/)       |
-|     Array String   |  [Slowest Key](https://leetcode.com/problems/slowest-key/)     | [C++](https://leetcode.com/submissions/detail/550485975/) |
-|     Bitwise Manipulation    |  [Reverse Bits](https://leetcode.com/problems/reverse-bits/)     | [C++](https://leetcode.com/submissions/detail/550474569/) |
-|     Array    |  [Reverse String](https://leetcode.com/problems/reverse-string/)     | [C++](https://leetcode.com/submissions/detail/550466713/) |
-|     Sorting Array   |  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)    |      [C++](https://leetcode.com/submissions/detail/548466253/)    [Alternate](https://leetcode.com/submissions/detail/548469884/)  [Alternate code](https://leetcode.com/submissions/detail/730416751/) |
 |     Array      |  [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)     |      [C++](https://leetcode.com/submissions/detail/547245759/)    [JS](https://leetcode.com/submissions/detail/547249190/)       |
-|     Array      |  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)     |      [C++](https://leetcode.com/submissions/detail/547217025/)  [Another solution](https://leetcode.com/submissions/detail/729580132/)   |
-|     Array      |  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)     |      [C++](https://leetcode.com/submissions/detail/546717661/)       |
+|     Array      |  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)     |     [C++](https://leetcode.com/submissions/detail/729580132/)   |
 |     Array      |  [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)     |      [C++](https://leetcode.com/submissions/detail/546710380/)       |
+|     Array      |  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)     |      [C++](https://leetcode.com/submissions/detail/546717661/)       |
+|     Array      |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)     |      [C++](https://leetcode.com/submissions/detail/551610360/)       |
 
 
 ## Difficulty level: Medium
