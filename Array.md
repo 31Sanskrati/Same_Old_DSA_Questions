@@ -38,23 +38,21 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 ## Difficulty level: Medium
 |  Topic  | Problem | Solution |
 | :---         |     :---:      |          ---: |
-|     Searching      |  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/746273122/)       |
-|     Array     |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      [C++](https://leetcode.com/problems/product-of-array-except-self/discuss/2272522/Every-solution-I-can-think-of)       |
-|     Sorting      |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)     |      [Using Cycle Sort](https://leetcode.com/problems/find-all-duplicates-in-an-array/discuss/2248046/C%2B%2B-oror-Cycle-Sort-oror-Code-with-comments-oror-O(n)-time-complexity)       |
-|     Searching      |  [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     |      [C++](https://leetcode.com/submissions/detail/739039506/)       |
 |     Array     |  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)     |      [C++](https://leetcode.com/submissions/detail/562983300/)       |
-|     Array      |  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)     |      [C++](https://leetcode.com/submissions/detail/735230844/)       |
-|     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |
-|     Binary Search      |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)     |      [C++](https://leetcode.com/submissions/detail/731699630/)       |
-|     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |
-|     Matrix   |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     | [C++](https://leetcode.com/submissions/detail/631947077/) |
 |     Array   |  [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)     | [C++](https://leetcode.com/submissions/detail/584875591/) |
 |     Array   |  [260. Single Number III](https://leetcode.com/problems/single-number-iii/)     | [C++](https://leetcode.com/submissions/detail/582869046/) |
-|     Array String   |  [Shifting Letters](https://leetcode.com/problems/shifting-letters/)     | [C++](https://leetcode.com/submissions/detail/551584714/) |
-|     DNF Sort   |  [Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |
-|     Array   |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)     | [C++](https://leetcode.com/submissions/detail/550994337/) |
 |     Array      |  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)     |      [C++](https://leetcode.com/submissions/detail/547266476/)    [JS](https://leetcode.com/submissions/detail/547271092/)   |
+
+|     DNF Sort   |  [75. Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |
+|     DNF Sort   |  [189. Rotate Array](https://leetcode.com/problems/rotate-array/)     | [C++](https://leetcode.com/submissions/detail/838751643/) |
+|     DNF Sort   |  [55. Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](https://leetcode.com/submissions/detail/838799494/) |
+|     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |
+|     Array     |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      [C++](https://leetcode.com/submissions/detail/836502166/)       |
+|     Array     |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)     |      [C++](https://leetcode.com/problems/product-of-array-except-self/discuss/2272522/Every-solution-I-can-think-of)       |
 |     Array      |  [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)     |      [C++](https://leetcode.com/problems/spiral-matrix-iii/discuss/2777454/C%2B%2B-solution-with-explanation-and-complexity)   |
+|     Array      |  [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)     |      [C++](https://leetcode.com/submissions/detail/735230844/)       |
+|     Array      |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |      [C++](https://leetcode.com/submissions/detail/734261080/)       |
+
 
 
 ## Difficulty level: Hard
