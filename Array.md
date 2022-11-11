@@ -58,6 +58,7 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 ## Difficulty level: Hard
 |  Topic  | Problem | Solution |
 | :---         |     :---:      |          ---: |
+|     Array      |  [1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)     |      [C++](https://leetcode.com/submissions/detail/841477961/)       |
 |     Array      |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)     |      [C++](https://leetcode.com/submissions/detail/840949611/)       |
 |     Array      |  [Maximum Gap](https://leetcode.com/problems/maximum-gap/)     |      [C++](https://leetcode.com/submissions/detail/562990455/)       |
 |     Array      |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     |      [C++](https://leetcode.com/submissions/detail/552656467/)       |
