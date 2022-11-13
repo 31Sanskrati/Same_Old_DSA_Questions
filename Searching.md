@@ -4,6 +4,7 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 ## Difficulty level: Easy
 | # |  Topic  | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
+|      97      |     Searching      |  [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)     |      [C++](https://leetcode.com/submissions/detail/731172701/)       |  Easy  |
 |      97      |     Searching      |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)     |      [C++](https://leetcode.com/submissions/detail/739429028/)       |  Easy  |
 |      96      |     Searching      |  [704. Binary Search](https://leetcode.com/problems/binary-search/)     |      [C++](https://leetcode.com/submissions/detail/740057107/)       |  Easy  |
 |      95      |     Searching      |  [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)     |      [C++](https://leetcode.com/submissions/detail/740048204/)       |  Easy  |
@@ -22,3 +23,4 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 | :---         |     :---:      |     :---:      |     :---:      |          ---: |
 |      83      |     Searching      |  [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     |      [C++](https://leetcode.com/submissions/detail/739039506/)       |  Medium  |
 |      112      |     Searching      |  [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/746273122/)       |  Medium  |
+|      112      |     Searching      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/2785620/c-solution-with-how-i-reached-to-this-solution-and-complexity-of-code)       |  Medium  |
