@@ -31,6 +31,7 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 |     Binary Search      |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)     |      [C++](https://leetcode.com/submissions/detail/730805873/)       |
 |     Binary Search      |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)     |      [C++](https://leetcode.com/submissions/detail/731699630/)       |
 |     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |
+|     Binary Search      |  [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)     |      [C++](https://leetcode.com/submissions/detail/854074480/)       |
 
 
 ## Difficulty level: Hard
