@@ -6,7 +6,7 @@ I am trying to solve [LeetCode](https://leetcode.com/) problems because everybod
 ## Where to find solutions?
 There are two ways to access the solution:
 - First way is to see solutions according to the topic, each topic have a seperate markdown file. Each problem is seperated by topic and difficulty level which contains link to that problem and solution link.
-- Second way is to see solutions according to the sequence in which I solved the questions. Open the .Each problem contains topic, link of that problem, solution link of the solution that I wrote and difficulty of that question.
+- Second way is to see solutions according to the sequence in which I solved the questions. Open the [OneForAll.md](https://github.com/31Sanskrati/DSA_Questions/blob/changes/OneforAll.md).Each problem contains topic, link of that problem, solution link of the solution that I wrote and difficulty of that question.
 
 ## What you can do with this repository?
 If you want to contribute, by sharing your solutions. Just fork this repo add your solutions and open pull request.
