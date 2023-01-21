@@ -30,5 +30,5 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 ## Difficulty Level:  Hard
 | # | Problem | Solution |
-| :---         |     :---:      |     :---:      |     :---:      |
+| :---         |     :---:      |     :---:      |
 |      91      |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)     |      [Using Cycle Sort](https://leetcode.com/problems/first-missing-positive/discuss/2248299/C%2B%2B-oror-Cycle-Sort-oror-code-with-comments)       |
