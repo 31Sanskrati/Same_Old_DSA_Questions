@@ -46,7 +46,7 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 |  [75. Sort Colors](https://leetcode.com/problems/sort-colors/)     | [C++](https://leetcode.com/submissions/detail/551014131/) |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array/)     | [C++](https://leetcode.com/submissions/detail/838751643/) |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](https://leetcode.com/submissions/detail/838799494/) |
-|     Binary Search      |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |
+|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)     |      [C++](https://leetcode.com/submissions/detail/731664686/)       |
 |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      [C++](https://leetcode.com/submissions/detail/836502166/)       |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)     |      [C++](https://leetcode.com/problems/product-of-array-except-self/discuss/2272522/Every-solution-I-can-think-of)       |
 |  [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)     |      [C++](https://leetcode.com/problems/spiral-matrix-iii/discuss/2777454/C%2B%2B-solution-with-explanation-and-complexity)   |
