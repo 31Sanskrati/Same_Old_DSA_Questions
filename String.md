@@ -33,6 +33,7 @@ Each problem contains topic, link of that problem, solution link of the solution
 
 ## Difficulty Level : Medium
 
-| # | Problem | Solution |
+|   #   |   Problem   |   Solution   |
+| :---         |     :---:      |     :---:      |  
 |      38      |  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [C++](https://leetcode.com/submissions/detail/574375224/) |
 |      14      |  [Shifting Letters](https://leetcode.com/problems/shifting-letters/)     | [C++](https://leetcode.com/submissions/detail/551584714/) |
