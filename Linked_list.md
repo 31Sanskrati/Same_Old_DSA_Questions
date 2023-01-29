@@ -32,7 +32,6 @@ This markdown file is specific to [LeetCode](https://leetcode.com/) problems rel
 |  [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)     | [C++](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/submissions/876451416/) |
 |  [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)     | [C++](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/3109985/my-obvious-solution/) |
 
-
 </br>
 
 ## Difficulty level: Hard
